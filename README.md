@@ -121,7 +121,7 @@ Incursion,Incursão,Termo usado para descrever movimentações em territórios d
 
 ## Desafio 3
 
-### Acelerando-a-produtividade-pessoal-com-IA
+### Acelerando a produtividade pessoal com IA
 
 Eu quero que a IA gere um relatório da progressão de atividade e uso do tempo semanal através do link do arquivo de mapeamento de tarefas, baseando-se na minha rotina e documentar semanalmente o que foi feito com dados do progresso e observações para eu mesma ter uma base de quanto tempo eu utilizo para cada tarefa e assim poder otimizar processos e me organizar melhor diariamente.  
    
