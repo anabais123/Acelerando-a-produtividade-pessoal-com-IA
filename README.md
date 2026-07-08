@@ -1,8 +1,17 @@
-# Bootcamp-Heinekein-Desafios
+# **Bootcamp-Heinekein-Desafios**
 
 ## Desafio Bootcamp Heinekein
 
-### Mini Guia de Estudos
+## Desafio 1
+
+### Simplificando Tarefas e Ganhando Foco com IA
+
+Criando um prompt claro:
+Quero que a IA gere análises de performance de campanhas, relatórios e soluções estratégicas para profissionais de Ads Operations e similares com foco em desenvolvimento pessoal, com o objetivo de otimizar o desempenho das campanhas, melhorar o cenário das campanhas, peças (KVs) e relatórios, além de agilizar o fluxo de trabalho, deixando-o mais leve. Considere o seguinte contexto: somos da equipe de Ads Operations no Magalu, responsáveis por programar campanhas, verificar a qualidade das peças (iluminação, design, CTA) antes de serem veiculadas e elaborar relatórios de performance para apoiar a operação diária. O conteúdo deve ter análises de KV em bullet points (erros, sugestões, resultados esperados e alternativas visuais) e relatórios/análises de campanhas em tabela comparativa (modelo .xlsx) com pontos de melhoria, sugestões e insights. Evite buscar fontes externas não ordenadas e fazer alterações nos dados ou peças fornecidas. 
+
+
+## Desafio 2
+### Explorando o poder do NotebookLM
 **1\. Contexto e objetivos**  
 Este material foi desenvolvido para uma **brasileira nativa, fluente em inglês**, que trabalha em regime presencial de segunda a quinta (9h às 16h), com home office às sextas e rotina de academia às 17h. O assunto de interesse é a **Língua Francesa (Nível A1)**, utilizando como base pedagógica notícias reais e materiais de apoio do site RFI Savoirs. 
 
@@ -109,6 +118,8 @@ Incursion,Incursão,Termo usado para descrever movimentações em territórios d
 "**D. Aplicação na Rotina (Trabalho/Academia):**"Crie 3 frases em francês nível A1 que eu possa usar para descrever minha rotina de trabalho das 9h às 16h e meu treino às 17h, utilizando o verbo 'aller' no presente.
 
 "**E. Prática de Negação:**"Reescreva estas 5 frases afirmativas Inserir Frases na forma negativa, garantindo a posição correta do 'ne... pas' com verbos modais e futuro próximo."
+
+## Desafio 3
 
 ### Acelerando-a-produtividade-pessoal-com-IA
 
